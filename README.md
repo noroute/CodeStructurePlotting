@@ -18,7 +18,7 @@ Use
 ---
 Easy.
 
- find <DIR> -name <PATTERN> | xargs plotFiles.py
+    find DIR -name PATTERN | xargs plotFiles.py
 
 Requirements
 ------------
